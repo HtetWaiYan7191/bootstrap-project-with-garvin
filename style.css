@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+#headline-container {
+  background-image: url(images/Header-llustration-desktopbgimage.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
