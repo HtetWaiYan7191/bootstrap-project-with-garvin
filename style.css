@@ -1,4 +1,30 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 375px) {
+  #headline-container {
+    background-image: url(images/header-illsutration-mobile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #skills-container span {
+    background-color: #d0d9d4;
+    color: #172b4d;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  #headline-container {
+    background-image: url(images/Header-llustration-desktopbgimage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  main {
+    width: 70%;
+  }
 }
