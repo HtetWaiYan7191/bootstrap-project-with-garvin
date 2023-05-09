@@ -4,19 +4,31 @@
   box-sizing: border-box;
 }
 
-#headline-container {
-  background-image: url(images/Header-llustration-desktopbgimage.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
+
+
+@media only screen and (min-width: 375px) {
+  #headline-container {
+    background-image: url(images/header-illsutration-mobile.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+  #skills-container span {
+    background-color: #D0D9D4;
+    color:#172B4D;
+    ;
+  }
 }
 
-#skills-container span {
-  background-color: #D0D9D4;
-  color:#172B4D;
-  ;
-}
+@media only screen and (min-width:768px) {
+  #headline-container {
+    background-image: url(images/Header-llustration-desktopbgimage.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
 
-#project-btn {
-  
+  main {
+    width: 70%;
+  }
 }
