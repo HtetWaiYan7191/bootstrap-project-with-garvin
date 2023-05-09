@@ -6,11 +6,9 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -22,9 +20,9 @@
 
 # 📖 [My_Portfolio_Project] <a name="about-project"></a>
 
-It is a portfolio project to showcase my skills and projects.
+It is a portfolio project to apply bootstrap.
 
-**[My_Portfolio_Project]** is a project we have to build in the first week of microverse.
+**[My_Portfolio_Project]** is a project we have to build together with my partner garvin.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,19 +43,14 @@ It is a portfolio project to showcase my skills and projects.
 ### Key Features <a name="key-features"></a>
 
 
-
-- **[using_css_flexbox]**
+- **[using_bootstrap_features]**
 - **[responsive_design_for_any_devices]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/HtetWaiYan7191)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -73,20 +66,11 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 ### Example commands:
 <code>
-  git clone git@github.com:HtetWaiYan7191/My-Portfolio-Microverse.git
-  cd My-Portfolio-Microverse.git
+  git clone https://github.com/HtetWaiYan7191/bootstrap-project-with-garvin.git
+  cd bootstrap-project-with-garvin.git
 </code>
 
 ### Setup
-
-
-### Deployment <a name="deployment"></a>
-
-You can access this project by using the link below...<br>
-[My Portfolio](https://htetwaiyan7191.github.io./)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -94,8 +78,10 @@ You can access this project by using the link below...<br>
 
 
 👤 **Htet Wai Yan**
+👤 **Chimone Garvin**
 
 - GitHub: [@githubhandle](https://github.com/HtetWaiYan7191)
+- GitHub: [@githubhandle](https://github.com/Chimoneg27)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
